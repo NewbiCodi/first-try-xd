@@ -82,3 +82,18 @@ button {
     margin: auto;
     padding: 30px;
 }
+
+#ninja-ken {
+    display: inline-block;
+    width: 100%;
+    height: 280px;
+    background-image: url(ken.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.goyang {
+    animation: ninjawiggle .75s infinite;
+}
+
